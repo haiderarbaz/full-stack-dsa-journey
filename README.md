@@ -50,3 +50,35 @@ See [progress.md](./progress.md) for the full day-by-day log.
 - OS: WSL2 (Ubuntu) on Windows
 - Languages/tools: C++ (g++), Core Java, HTML/CSS/JS
 - IDE: Visual Studio
+- Compiler: g++
+
+## How to Run C++ Files
+
+Compile:
+
+```bash
+g++ filename.cpp -o filename.out
+```
+
+Run:
+
+```bash
+./filename.out
+```
+
+Example (Day 2's Hello World):
+
+```bash
+g++ dsa/day02-hello-world.cpp -o day02-hello-world.out
+./day02
+```
+
+```bash
+g++ dsa/day02-hello-world.cpp -o day02
+./day02
+```
+
+```bash
+g++ dsa/day02-hello-world.cpp -o day02-hello-world
+./day02
+```
