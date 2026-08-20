@@ -1,0 +1,11 @@
+# Editor
+.vscode/
+
+# C++ build artifacts
+*.o
+*.out
+*.exe
+
+# OS files
+.DS_Store
+Thumbs.db
