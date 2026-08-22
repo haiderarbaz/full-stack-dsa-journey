@@ -47,9 +47,10 @@ Format: `Day X | Date | What I did | Key takeaway | Link`
 
 ---
 
-*Break: 2 days - account issue, no coding logged.*
+_Break: 3 days - account issue, no coding logged. Will resume it from 23-08-2026_
 
 ---
+
 <!--
 Copy the block below for each new day:
 
