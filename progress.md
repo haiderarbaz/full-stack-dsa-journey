@@ -47,6 +47,9 @@ Format: `Day X | Date | What I did | Key takeaway | Link`
 
 ---
 
+*Break: 2 days - account issue, no coding logged.*
+
+---
 <!--
 Copy the block below for each new day:
 
