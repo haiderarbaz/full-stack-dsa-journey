@@ -51,6 +51,16 @@ _Break: 3 days - account issue, no coding logged. Will resume it from 23-08-2026
 
 ---
 
+### Day 3 - 23-08-2026
+
+**Focus:** DSA (C++) - pattern printing
+
+**What I did:** Wrote a program to print a star (\*) triangle pattern.
+
+**Takeaway:** Learned `<bits/stdc++.h>` is not a standard C++ library — it's a GCC-specific shortcut used in competitive programming, not recommended for production. `<iostream>` is the actual standard library and what should be used instead.
+
+**Link/commit:** [Day 3 - Star Triangle](dsa/day03-star-triangle.cpp)
+
 <!--
 Copy the block below for each new day:
 
