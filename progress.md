@@ -61,6 +61,20 @@ _Break: 3 days - account issue, no coding logged. Will resume it from 23-08-2026
 
 **Link/commit:** [Day 3 - Star Triangle](dsa/day03-star-triangle.cpp)
 
+---
+
+### Day 4 - 25-08-2026
+
+**Focus:** DSA (C++) - arithmetic operators
+
+**What I did:** Wrote a program demonstrating arithmetic operators (+, -, \*, /, %) on integers.
+
+**Takeaway:** Text in double quotes ≠ math. `/` gives quotient, `%` gives remainder. Integer division always returns an integer, need to cast one operand to float for a decimal result.
+
+**Link/commit:** [Day 4 — Arithmetic Operators](dsa/day04-arithmetic-operators.cpp)
+
+---
+
 <!--
 Copy the block below for each new day:
 
