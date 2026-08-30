@@ -43,7 +43,7 @@ Format: `Day X | Date | What I did | Key takeaway | Link`
 
 **Takeaway:** Understanding _why_ syntax rules exist (not just memorizing them) made the Hello World breakdown click.
 
-**Link/commit:** [Day 2 — Hello World](dsa/day02-hello-world.cpp)
+**Link/commit:** [Day 2 - Hello World](dsa/day02-hello-world.cpp)
 
 ---
 
@@ -71,11 +71,27 @@ _Break: 3 days - account issue, no coding logged. Will resume it from 23-08-2026
 
 **Takeaway:** Text in double quotes ≠ math. `/` gives quotient, `%` gives remainder. Integer division always returns an integer, need to cast one operand to float for a decimal result.
 
-**Link/commit:** [Day 4 — Arithmetic Operators](dsa/day04-arithmetic-operators.cpp)
+**Link/commit:** [Day 4 - Arithmetic Operators](dsa/day04-arithmetic-operators.cpp)
 
 ---
 
 _Break: 4 days - wasn't well from last 4 days, will resumed from tomorrow [30-08-2026]_
+
+---
+
+### Day 5 - 30-08-2026
+
+**Focus:** DSA (C++) - variables & primitive data types
+
+**What I did:** Wrote a program to demonstrate variables and primitive data types
+
+**Takeaway:** Variables must be declared before use. `int` truncates decimals rather than rounding (`int age = 34.75` → `34`). Characters need single quotes (`'A'`), double quotes create a `const char*`, not a `char`, and throw a conversion error
+
+**Link/commit:** [Day 5 - Variables & Data Types](dsa/day05-variables-datatypes.cpp)
+
+---
+
+---
 
 <!--
 Copy the block below for each new day:
