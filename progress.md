@@ -91,6 +91,16 @@ _Break: 4 days - wasn't well from last 4 days, will resumed from tomorrow [30-08
 
 ---
 
+### Day 6 - 31-08-2026
+
+**Focus:** DSA (C++) - data types & input handling
+
+**What I did:** Learnt why data types are needed, rules for creating variables, and how to take input.
+
+**Takeaway:** Data types matter for memory management, error prevention, performance, data integrity, clarity, and correctness. `cin` reads until whitespace (good for single words/numbers); `getline()` reads full lines. Mixing the two leaves leftover newline in the buffer — `cin.ignore()` clears it.
+
+**Link/commit:** [Day 6 - Data Types & Input](dsa/day06/)
+
 ---
 
 <!--
