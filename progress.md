@@ -103,6 +103,16 @@ _Break: 4 days - wasn't well from last 4 days, will resumed from tomorrow [30-08
 
 ---
 
+### Day 7 - 01-09-2026
+
+**Focus:** DSA (C++) - relational & logical operators
+
+**What I did:** Wrote programs demonstrating relational and logical operators.
+
+**Takeaway:** Relational operators compare values, returning true(1)/false(0); used in decision-making. `=` assigns, `==` checks equality. Logical operators (`&&` AND, `||` OR, `!` NOT) combine/reverse conditions, also returning boolean results. C++ also supports `and`/`or`/`not` as word-form alternatives.
+
+**Link/commit:** [Day 7 - Relational & Logical Operators](dsa/day07/)
+
 <!--
 Copy the block below for each new day:
 

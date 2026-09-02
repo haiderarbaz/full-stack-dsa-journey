@@ -1,16 +1,21 @@
 /*
-  Relational operators are used to compare two values and determine the relationship between them. Result of relational operators is always either true (1) or false (0).
+  Relationale Operators: 
 
-  - Return boolean-like results (0 or 1).
-  - Used in decision-making statements.
+    Relational operators are used to compare two values and determine the relationship between them. Result of relational operators is always either true (1) or false (0).
 
-  Relational operators are:
-  > - greater than
-  < - less than
-  >= - greater than or equal to
-  <= - less than or equal to
-  == - equal to
-  != - not equal to
+    - Return boolean-like results (0 or 1).
+    - Used in decision-making statements.
+
+    Relational operators are:
+      > → greater than
+      < → less than
+      >= → greater than or equal to
+      <= → less than or equal to
+      == → equal to
+      != → not equal to
+
+    NOTE:
+      Everything 'non-zero' is 'truthy', while 'zero' is 'falsy' in C++ conditional expressions.
 
 */
 
@@ -45,7 +50,13 @@ int main(){
 /*
   = VS ==
 
-  = is Assignment opearator
+  = → is Assignment opearator
   a = 5 (means put 5 into a) 
-  = stores/assigns the value from the right-hand side to the variable on the left-hand side.
+  = → stores/assigns the value from the right-hand side to the variable on the left-hand side.
+
+  where as 
+
+  == → Is Equal To, It Checks if both operands are equal
+  x == 10 // Check: Is x equal to 10?
+
 */
