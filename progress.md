@@ -9,7 +9,9 @@ Format: `Day X | Date | What I did | Key takeaway | Link`
 **Focus:** Announcement day
 
 **What I did:** Decided the plan - what I'll cover (HTML, CSS, JavaScript, Core Java, DSA in C++) and how I'll document it (daily posts, weekly recap, this repo).
+
 **Takeaway:** Having a clear scope before Day 1 makes it easier to stay consistent for 100 days.
+
 **Link/commit:**
 
 ---
@@ -112,6 +114,20 @@ _Break: 4 days - wasn't well from last 4 days, will resumed from tomorrow [30-08
 **Takeaway:** Relational operators compare values, returning true(1)/false(0); used in decision-making. `=` assigns, `==` checks equality. Logical operators (`&&` AND, `||` OR, `!` NOT) combine/reverse conditions, also returning boolean results. C++ also supports `and`/`or`/`not` as word-form alternatives.
 
 **Link/commit:** [Day 7 - Relational & Logical Operators](dsa/day07/)
+
+---
+
+### Day 8 - 02-08-2026
+
+**Focus:** DSA (C++) - Codeforces assignments (100xSchool Bootcamp)
+
+**What I did:** Solved 8 problems (A–H1): Hello World, print first 5 alphabets, triangle pattern, print "Z" pattern, table of 5, rectangle area/perimeter, table of N, and a basic calculator (add/sub/mul/div/mod). Solved without using loops.
+
+**Takeaway:** Doing pattern/table problems without loops meant writing out each line/step manually - good forcing function before loops are introduced.
+
+**Link/commit:** [Codeforces Assignments A–H1](dsa/codeforces-assignments/01-introduction-to-cpp/)
+
+---
 
 <!--
 Copy the block below for each new day:
