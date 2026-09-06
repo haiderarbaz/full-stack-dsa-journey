@@ -4,7 +4,7 @@ Format: `Day X | Date | What I did | Key takeaway | Link`
 
 ---
 
-### Day 0 - 17-08-2026
+### Day 00 - 17-08-2026
 
 **Focus:** Announcement day
 
@@ -16,7 +16,7 @@ Format: `Day X | Date | What I did | Key takeaway | Link`
 
 ---
 
-### Day 1 - 18-08-2026
+### Day 01 - 18-08-2026
 
 **Focus:** Environment setup
 
@@ -37,7 +37,7 @@ Format: `Day X | Date | What I did | Key takeaway | Link`
 
 ---
 
-### Day 2 - 19-08-2026
+### Day 02 - 19-08-2026
 
 **Focus:** DSA (C++) - [100xDevs](https://harkirat.classx.co.in/) course by [Dhruv Pasricha](https://x.com/_DhruvPasricha)
 
@@ -45,7 +45,7 @@ Format: `Day X | Date | What I did | Key takeaway | Link`
 
 **Takeaway:** Understanding _why_ syntax rules exist (not just memorizing them) made the Hello World breakdown click.
 
-**Link/commit:** [Day 2 - Hello World](dsa/day02-hello-world.cpp)
+**Link/commit:** [Day 02 - Hello World](dsa/day02-hello-world.cpp)
 
 ---
 
@@ -53,7 +53,7 @@ _Break: 3 days - account issue, no coding logged. Will resume it from 23-08-2026
 
 ---
 
-### Day 3 - 23-08-2026
+### Day 03 - 23-08-2026
 
 **Focus:** DSA (C++) - pattern printing
 
@@ -61,11 +61,11 @@ _Break: 3 days - account issue, no coding logged. Will resume it from 23-08-2026
 
 **Takeaway:** Learned `<bits/stdc++.h>` is not a standard C++ library — it's a GCC-specific shortcut used in competitive programming, not recommended for production. `<iostream>` is the actual standard library and what should be used instead.
 
-**Link/commit:** [Day 3 - Star Triangle](dsa/day03-star-triangle.cpp)
+**Link/commit:** [Day 03 - Star Triangle](dsa/day03-star-triangle.cpp)
 
 ---
 
-### Day 4 - 25-08-2026
+### Day 04 - 25-08-2026
 
 **Focus:** DSA (C++) - arithmetic operators
 
@@ -73,7 +73,7 @@ _Break: 3 days - account issue, no coding logged. Will resume it from 23-08-2026
 
 **Takeaway:** Text in double quotes ≠ math. `/` gives quotient, `%` gives remainder. Integer division always returns an integer, need to cast one operand to float for a decimal result.
 
-**Link/commit:** [Day 4 - Arithmetic Operators](dsa/day04-arithmetic-operators.cpp)
+**Link/commit:** [Day 04 - Arithmetic Operators](dsa/day04-arithmetic-operators.cpp)
 
 ---
 
@@ -81,7 +81,7 @@ _Break: 4 days - wasn't well from last 4 days, will resumed from tomorrow [30-08
 
 ---
 
-### Day 5 - 30-08-2026
+### Day 05 - 30-08-2026
 
 **Focus:** DSA (C++) - variables & primitive data types
 
@@ -89,11 +89,11 @@ _Break: 4 days - wasn't well from last 4 days, will resumed from tomorrow [30-08
 
 **Takeaway:** Variables must be declared before use. `int` truncates decimals rather than rounding (`int age = 34.75` → `34`). Characters need single quotes (`'A'`), double quotes create a `const char*`, not a `char`, and throw a conversion error
 
-**Link/commit:** [Day 5 - Variables & Data Types](dsa/day05-variables-datatypes.cpp)
+**Link/commit:** [Day 05 - Variables & Data Types](dsa/day05-variables-datatypes.cpp)
 
 ---
 
-### Day 6 - 31-08-2026
+### Day 06 - 31-08-2026
 
 **Focus:** DSA (C++) - data types & input handling
 
@@ -101,11 +101,11 @@ _Break: 4 days - wasn't well from last 4 days, will resumed from tomorrow [30-08
 
 **Takeaway:** Data types matter for memory management, error prevention, performance, data integrity, clarity, and correctness. `cin` reads until whitespace (good for single words/numbers); `getline()` reads full lines. Mixing the two leaves leftover newline in the buffer — `cin.ignore()` clears it.
 
-**Link/commit:** [Day 6 - Data Types & Input](dsa/day06/)
+**Link/commit:** [Day 06 - Data Types & Input](dsa/day06/)
 
 ---
 
-### Day 7 - 01-09-2026
+### Day 07 - 01-09-2026
 
 **Focus:** DSA (C++) - relational & logical operators
 
@@ -113,11 +113,11 @@ _Break: 4 days - wasn't well from last 4 days, will resumed from tomorrow [30-08
 
 **Takeaway:** Relational operators compare values, returning true(1)/false(0); used in decision-making. `=` assigns, `==` checks equality. Logical operators (`&&` AND, `||` OR, `!` NOT) combine/reverse conditions, also returning boolean results. C++ also supports `and`/`or`/`not` as word-form alternatives.
 
-**Link/commit:** [Day 7 - Relational & Logical Operators](dsa/day07/)
+**Link/commit:** [Day 07 - Relational & Logical Operators](dsa/day07/)
 
 ---
 
-### Day 8 - 02-08-2026
+### Day 08 - 02-08-2026
 
 **Focus:** DSA (C++) - Codeforces assignments (100xSchool Bootcamp)
 
@@ -125,7 +125,19 @@ _Break: 4 days - wasn't well from last 4 days, will resumed from tomorrow [30-08
 
 **Takeaway:** Doing pattern/table problems without loops meant writing out each line/step manually - good forcing function before loops are introduced.
 
-**Link/commit:** [Codeforces Assignments A–H1](dsa/codeforces-assignments/01-introduction-to-cpp/)
+**Link/commit:** [Day 08 - Solved 8 (A-H1) problems from 1st Assignments ](dsa/day08/day08.md)
+
+---
+
+### Day 09 - 03-08-2026
+
+**Focus:** DSA (C++) - conditional statements
+
+**What I did:** Learnt if-else, else if, nested if, and switch. Wrote programs to demonstrate each.
+
+**Takeaway:** `if-else` is for simple true/false decisions; `switch` is better when checking multiple specific values.
+
+**Link/commit:** [Day 09 — Conditional Statements](dsa/day09/)
 
 ---
 
