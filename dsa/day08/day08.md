@@ -1,0 +1,3 @@
+- Solved 8 assignment problems (A–H1) from the 100xSchool Bootcamp on Codeforces covering basic I/O, pattern printing, multiplication tables, and arithmetic operations.
+- All done without loops.
+- [Codeforces-100xdevs-assignments](../codeforces-100xdevs-assignments/01-introduction-to-cpp/)
