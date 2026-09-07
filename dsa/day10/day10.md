@@ -1,0 +1,2 @@
+- Solved 5 more Codeforces problems (H2–M) from the 100xSchool Bootcamp, Calculator II, sum of last digits, even/odd check, factor check, multiple check, and pass/fail.
+- [Codeforces-100xdevs-assignments](../codeforces-100xdevs-assignments/01-introduction-to-cpp/)

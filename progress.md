@@ -143,10 +143,13 @@ _Break: 4 days - wasn't well from last 4 days, will resumed from tomorrow [30-08
 
 ### Day 10 - 07-09-2026
 
-**Focus:** DSA (C++) — Codeforces assignments (100xSchool Bootcamp)
+**Focus:** DSA (C++) - Codeforces assignments (100xSchool Bootcamp)
+
 **What I did:** Solved 5 problems (H2–M): Calculator II, sum of last digits, even/odd, factor check, multiple check, pass/fail.
-**Takeaway:** For a min/max-of-two problem, realized `A < B` and `B > A` are logically equivalent — so you don't need separate checks for both directions. Used if-else (not nested else-if) as the cleanest approach, since it directly captures the two possible outcomes without redundant conditions.
-**Link/commit:** [Day 10 — Codeforces H2-M](dsa/day10)
+
+**Takeaway:** For a min/max-of-two problem, realized `A < B` and `B > A` are logically equivalent, so you don't need separate checks for both directions. Used if-else (not nested else-if) as the cleanest approach, since it directly captures the two possible outcomes without redundant conditions.
+
+**Link/commit:** [Day 10 - Solved 5 more (H2-M) problems from 1st Assignments](dsa/day10/day10.md)
 
 ---
 
