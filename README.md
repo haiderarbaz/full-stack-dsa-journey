@@ -15,6 +15,8 @@ This is **Phase 1** of a longer plan:
 
 - **DSA (C++):** [100xDevs](https://harkirat.classx.co.in/) by [Dhruv Parashar](https://x.com/_DhruvPasricha)
 
+- **Web Dev Cohort:** [ChaiCode](https://courses.chaicode.com/learn) by [Hitesh Choudhary](https://x.com/Hiteshdotcom) and [Piyush Garg](https://x.com/piyushgarg_dev)
+
 ## Daily Content
 
 Posted daily under `#100DaysOfCode #FullStackAndDSA`:
@@ -31,15 +33,18 @@ Also tagged `#LearningInPublic #BuildingInPublic`.
 ├── dsa/          → DSA problems, solved in C++
 ├── frontend/     → Frontend development practice
 ├── backend/      → Backend development practice
+├── .gitignore    → ignored files (build output, editor configs)
 ├── progress.md   → daily log: what I did, what I learned
 └── README.md     → this file
 ```
 
 **Naming convention:**
 
-- One file that day → name it directly: `dsa/day05-two-sum.cpp`
-- Multiple files that day → use a day subfolder: `dsa/day05/`
-- Setup-only days (e.g. Day 0, Day 1) don't get a folder — logged in `progress.md` only
+- Every day gets its own folder: `dsa/day05/`, `frontend/day05/`, etc.
+
+- One or more files inside, named by topic/problem: `dsa/day05/two-sum.cpp`
+
+- Setup-only days (e.g. Day 0, Day 1) don't get a folder - logged in `progress.md` only
 
 ## Progress Log
 
@@ -68,17 +73,38 @@ Run:
 
 Example (Day 2's Hello World):
 
+Compile:
+
 ```bash
 g++ dsa/day02-hello-world.cpp -o day02-hello-world.out
+```
+
+Run:
+
+```
 ./day02
 ```
+
+Compile:
 
 ```bash
 g++ dsa/day02-hello-world.cpp -o day02
+```
+
+Run:
+
+```
 ./day02
 ```
 
+Compile:
+
 ```bash
 g++ dsa/day02-hello-world.cpp -o day02-hello-world
+```
+
+Run:
+
+```
 ./day02
 ```

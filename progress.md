@@ -143,11 +143,11 @@ _Break: 4 days - wasn't well from last 4 days, will resumed from tomorrow [30-08
 
 ### Day 10 - 07-09-2026
 
-**Focus:** DSA (C++) - Codeforces assignments (100xSchool Bootcamp)
+**Focus:** DSA (C++) - Codeforces H2–M + Started Web Dev [ChaiCode](https://courses.chaicode.com/learn)
 
-**What I did:** Solved 5 problems (H2–M): Calculator II, sum of last digits, even/odd, factor check, multiple check, pass/fail.
+**What I did:** Solved 7 problems: Calculator II, Add Last Digits, Even or Odd, Factor, Multiple, Pass or Fail, Max/Min of 2 numbers. Also started Web Dev via [ChaiCode](https://courses.chaicode.com/learn), explored MasterJi (main platform, Townhall community), ChaiCode Labs (HTML/CSS/JS practice), and TimeArena (productivity tracker, in beta)
 
-**Takeaway:** For a min/max-of-two problem, realized `A < B` and `B > A` are logically equivalent, so you don't need separate checks for both directions. Used if-else (not nested else-if) as the cleanest approach, since it directly captures the two possible outcomes without redundant conditions.
+**Takeaway:** For Max/Min, compared 3 approaches (four separate ifs, if-else, if/else-if/else) — if-else was the cleanest since A<B and B>A are logically equivalent, so no need to check both directions separately
 
 **Link/commit:** [Day 10 - Solved 5 more (H2-M) problems from 1st Assignments](dsa/day10/day10.md)
 
