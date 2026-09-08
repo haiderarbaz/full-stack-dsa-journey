@@ -141,7 +141,7 @@ _Break: 4 days - wasn't well from last 4 days, will resumed from tomorrow [30-08
 
 ---
 
-### Day 10 - 07-09-2026
+### Day 10 - 04-09-2026
 
 **Focus:** DSA (C++) - Codeforces H2–M + Started Web Dev [ChaiCode](https://courses.chaicode.com/learn)
 
@@ -150,6 +150,18 @@ _Break: 4 days - wasn't well from last 4 days, will resumed from tomorrow [30-08
 **Takeaway:** For Max/Min, compared 3 approaches (four separate ifs, if-else, if/else-if/else) — if-else was the cleanest since A<B and B>A are logically equivalent, so no need to check both directions separately
 
 **Link/commit:** [Day 10 - Solved 5 more (H2-M) problems from 1st Assignments](dsa/day10/day10.md)
+
+---
+
+### Day 11 - 05-09-2026
+
+**Focus:** Web Dev - Orientation & Git Intro [ChaiCode](https://courses.chaicode.com/learn) + DSA (C++) - Revision
+
+**What I did:** Had a less productive day as I was tired after office work. Attended the Web Dev orientation and started with an introduction to Git. For DSA, revisited some of the problems solved previously and solved a few of them again to reinforce the concepts.
+
+**Takeaway:** Not every day will be equally productive. Revisiting previously solved problems is useful for strengthening problem-solving patterns and improving recall. The main goal today was to stay consistent rather than force a heavy workload while tired.
+
+**Link/commit:** don't get a folder - logged in here only
 
 ---
 
