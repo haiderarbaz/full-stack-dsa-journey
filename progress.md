@@ -161,7 +161,13 @@ _Break: 4 days - wasn't well from last 4 days, will resumed from tomorrow [30-08
 
 **Takeaway:** Not every day will be equally productive. Revisiting previously solved problems is useful for strengthening problem-solving patterns and improving recall. The main goal today was to stay consistent rather than force a heavy workload while tired.
 
-**Link/commit:** don't get a folder - logged in here only
+**Link/commit:** Don't get a folder - logged in here only
+
+---
+
+### Day 12 - 06-09-2026
+
+_Skipped — day spent cleaning home, no coding._
 
 ---
 

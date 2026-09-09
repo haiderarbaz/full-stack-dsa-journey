@@ -46,6 +46,8 @@ Also tagged `#LearningInPublic #BuildingInPublic`.
 
 - Setup-only days (e.g. Day 0, Day 1) don't get a folder - logged in `progress.md` only
 
+- Days with no new code (setup, orientation, pure revision, breaks) don't get a folder - logged in `progress.md` only
+
 ## Progress Log
 
 See [progress.md](./progress.md) for the full day-by-day log.
