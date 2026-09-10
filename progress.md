@@ -171,6 +171,31 @@ _Skipped — day spent cleaning home, no coding._
 
 ---
 
+### Day 13 - 07-09-2026
+
+**Note:** Before coding try to express the situation ion plain english. `for example:` if 'A' is gretrer then 'B' then 'A' is max & 'B' is min and if 'B' is greater than 'A'
+then 'B' is max & 'A' is min.
+
+**Need Improvements:**
+
+- Understand the syntax before fully understanding the logical relationship.
+- Translate coditions into english/hindi in head and write it on paper.
+- Start developing habit of asking "What exactly is this condition is asking?"
+- Develop logical thinking
+- Practice on recognizing redundant logic
+
+**Focus:** DSA (C++) - Codeforces [100xSchool Bootcamp 1.0](https://codeforces.com/group/4vcXCPx8NY/contests), Assignment 1 completed
+
+**What I did:** Solved the remaining 3 problems (O. Max and Min of 3 Numbers, P. Student Performance Evaluation, Q. Find the Location Point), completing Assignment 1 - Introduction to C++.
+
+**Takeaway:** Before coding, express the situation in plain English first. Understand the logical relationship before the syntax. Translating conditions into English/Hindi mentally and writing them on paper helps clarify the logic before writing code.
+
+**Link/commit:** [Day 13 - Assignment 1 Complete (O–Q)](dsa/day13/day13.md)
+
+---
+
+---
+
 <!--
 Copy the block below for each new day:
 

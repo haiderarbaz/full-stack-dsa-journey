@@ -1,0 +1,2 @@
+- Solved remaining 4 Codeforces problems (H2–M) from the assignments 01-Introduction to C++ from 100xSchool Bootcamp, Max and Min of 2 Numbers, Max and Min of 3 Numbers, Student Performance Evaluation, Find the location point.
+- [Codeforces-100xdevs-assignments](../codeforces-100xdevs-assignments/01-introduction-to-cpp/)
