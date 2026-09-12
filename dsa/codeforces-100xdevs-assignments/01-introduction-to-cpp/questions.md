@@ -274,7 +274,7 @@ Print five lines in the format shown in the example.
 6 % 4 = 2
 ```
 
-# H2. Calculator - II
+# [H2. Calculator - II](./H2-Calculator-II.cpp)
 
 You are given two integers `N` and `M`. Your task is to compute and print the results of the following operations:
 
@@ -315,7 +315,7 @@ Print five results in the following format as shown in the example.
 1000000000 % 1000000000 = 0
 ```
 
-# I. Add Last Digits
+# [I. Add Last Digits](./I-Add-Last-Digits.cpp)
 
 You are given two integers `N` and `M`. Your task is to find the sum of the last digits of `N` and `M`.
 
@@ -341,7 +341,7 @@ Print a single integer — the sum of the last digits of `N` and `M`.
 14
 ```
 
-# J. Even or Odd
+# [J. Even or Odd](./J-Even-or-Odd.cpp)
 
 You are given an integer `N`. Your task is to determine whether the number is even or odd.
 
@@ -380,7 +380,7 @@ Even
 Odd
 ```
 
-# K. Factor
+# [K. Factor](./K-Factor.cpp)
 
 You are given two integers `N` and `F`. Your task is to check whether `F` is a factor of `N`.
 
@@ -411,7 +411,7 @@ Print:
 Yes
 ```
 
-# L. Multiple
+# [L. Multiple](./L-Multiple.cpp)
 
 You are given two integers `N` and `M`. Your task is to check whether `M` is a multiple of `N`.
 
@@ -442,7 +442,7 @@ Print:
 Yes
 ```
 
-# M. Pass or Fail
+# [M. Pass or Fail](./M-Pass-or-Fail.cpp)
 
 You are given the marks obtained by a student. Your task is to check whether the student has passed or failed.
 
@@ -485,7 +485,7 @@ Pass
 Fail
 ```
 
-# N. Max and Min of 2 Numbers
+# [N. Max and Min of 2 Numbers](./N-Max-and-Min-of-2-Numbers.cpp)
 
 You are given two integers `A` and `B`. Your task is to find the minimum and maximum among them.
 
@@ -517,7 +517,7 @@ Min = 9
 Max = 12
 ```
 
-# O. Max and Min of 3 Numbers
+# [O. Max and Min of 3 Numbers](./O-Max-and-Min-of-3-Numbers.cpp)
 
 You are given three integers `A`, `B`, and `C`. Your task is to find the minimum and maximum among them.
 
@@ -549,7 +549,7 @@ Min = 9
 Max = 15
 ```
 
-# P. Student Performance Evaluation
+# [P. Student Performance Evaluation](./P-Student-Performance-Evaluation.cpp)
 
 You are given the marks obtained by a student. Based on the marks, display an appropriate performance message according to the following rules:
 
@@ -593,7 +593,7 @@ Good
 Excellent
 ```
 
-# Q. Find the location point
+# [Q. Find the location point](./Q-Find-the-location-point.cpp)
 
 You are given the coordinates of a point `(X,Y)` on a Cartesian plane. Your task is to determine the location of the point.
 

@@ -194,6 +194,16 @@ then 'B' is max & 'A' is min.
 
 ---
 
+### Day 14 - 08-09-2026
+
+**Focus:** DSA (C++) — loops (while loop)
+
+**What I did:** Started loops. Solved 8 programs using while loops: print 1 to N, N to 1, even numbers, odd numbers, uppercase A-Z, lowercase a-z, numbers L to R, multiplication table.
+
+**Takeaway:** Any loop problem can be broken into 3 questions - where do I start, when do I stop, what changes each repetition? Also covered the 3 loop types (while, for, do-while) and when each is useful - while for condition-driven repetition, for when the count is roughly known upfront, do-while when the body must run at least once.
+
+**Link/commit:** [Day 14 — Loops (while)](dsa/day14/)
+
 ---
 
 <!--
