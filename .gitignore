@@ -5,6 +5,10 @@
 *.o
 *.out
 *.exe
+*.out
+*.OUT
+*.COUT
+*.cout
 
 # OS files
 .DS_Store
