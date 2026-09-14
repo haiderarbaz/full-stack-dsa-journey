@@ -1,11 +1,38 @@
 #include <iostream>
 using namespace std;
 
+/*
+  First attempt
+*/
+int main(){
+  char ch = 'A';
+
+  while('A' <= 'Z'){
+    cout << ch << " ";
+    ch++;
+  }
+}
+/*
+  - The above code will causes a Time Limit Exceeded (TLE) error because it creates an infinite loop.
+  - The issue lies in while loop condition: while ('A' <= 'Z').
+  - Why this happens:
+    - Constant values: Both 'A' and 'Z' are constant character literals.
+    - Always true: The condition checks if the character 'A' (ASCII 65) is less than or equal to 'Z' (ASCII 90). 
+    - Because 65 is always less than 90, this condition is always true and never changes.
+    - Infinite execution: Since the condition never becomes false, the loop prints characters infinitely until the online judge cuts it off for taking too long.
+    
+  - How to fix it:
+    - You need to check the variable 'ch' in your loop condition instead of the constant character 'A', and ensure the loop stops once 'ch' goes past 'Z'.
+*/
+
+/*
+  Second attempt
+*/
 int main(){
   char ch = 'A';
 
   while(ch <= 'Z'){
-    cout << ch << endl;
+    cout << ch << " ";
     ch++;
   }
 }
