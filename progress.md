@@ -119,7 +119,7 @@ _Break: 4 days - wasn't well from last 4 days, will resumed from tomorrow [30-08
 
 ### Day 08 - 02-08-2026
 
-**Focus:** DSA (C++) - Codeforces assignments (100xSchool Bootcamp)
+**Focus:** DSA (C++) - Codeforces assignments [ntroduction to C++](https://codeforces.com/group/4vcXCPx8NY/contest/664504) (100xSchool Bootcamp)
 
 **What I did:** Solved 8 problems (A–H1): Hello World, print first 5 alphabets, triangle pattern, print "Z" pattern, table of 5, rectangle area/perimeter, table of N, and a basic calculator (add/sub/mul/div/mod). Solved without using loops.
 
@@ -143,13 +143,13 @@ _Break: 4 days - wasn't well from last 4 days, will resumed from tomorrow [30-08
 
 ### Day 10 - 04-09-2026
 
-**Focus:** DSA (C++) - Codeforces H2–M + Started Web Dev [ChaiCode](https://courses.chaicode.com/learn)
+**Focus:** DSA (C++) - Codeforces H2–N [ntroduction to C++](https://codeforces.com/group/4vcXCPx8NY/contest/664504) + Started Web Dev [ChaiCode](https://courses.chaicode.com/learn)
 
-**What I did:** Solved 7 problems: Calculator II, Add Last Digits, Even or Odd, Factor, Multiple, Pass or Fail, Max/Min of 2 numbers. Also started Web Dev via [ChaiCode](https://courses.chaicode.com/learn), explored MasterJi (main platform, Townhall community), ChaiCode Labs (HTML/CSS/JS practice), and TimeArena (productivity tracker, in beta)
+**What I did:** Solved 7 problems: Calculator II, Add Last Digits, Even or Odd, Factor, Multiple, Pass or Fail, Max/Min of 2 numbers from assignment [ntroduction to C++](https://codeforces.com/group/4vcXCPx8NY/contest/664504). Also started Web Dev via [ChaiCode](https://courses.chaicode.com/learn), explored MasterJi (main platform, Townhall community), ChaiCode Labs (HTML/CSS/JS practice), and TimeArena (productivity tracker, in beta)
 
 **Takeaway:** For Max/Min, compared 3 approaches (four separate ifs, if-else, if/else-if/else) — if-else was the cleanest since A<B and B>A are logically equivalent, so no need to check both directions separately
 
-**Link/commit:** [Day 10 - Solved 5 more (H2-M) problems from 1st Assignments](dsa/day10/day10.md)
+**Link/commit:** [Day 10 - Solved 7 more (H2-N) problems from 1st Assignments](dsa/day10/day10.md)
 
 ---
 
@@ -184,9 +184,9 @@ then 'B' is max & 'A' is min.
 - Develop logical thinking
 - Practice on recognizing redundant logic
 
-**Focus:** DSA (C++) - Codeforces [100xSchool Bootcamp 1.0](https://codeforces.com/group/4vcXCPx8NY/contests), Assignment 1 completed
+**Focus:** DSA (C++) - Codeforces [100xSchool Bootcamp 1.0](https://codeforces.com/group/4vcXCPx8NY/contests), Solved remaining Assignment [ntroduction to C++](https://codeforces.com/group/4vcXCPx8NY/contest/664504) problems.
 
-**What I did:** Solved the remaining 3 problems (O. Max and Min of 3 Numbers, P. Student Performance Evaluation, Q. Find the Location Point), completing Assignment 1 - Introduction to C++.
+**What I did:** Solved the remaining 3 problems (O. Max and Min of 3 Numbers, P. Student Performance Evaluation, Q. Find the Location Point), completing Assignment [ntroduction to C++](https://codeforces.com/group/4vcXCPx8NY/contest/664504)
 
 **Takeaway:** Before coding, express the situation in plain English first. Understand the logical relationship before the syntax. Translating conditions into English/Hindi mentally and writing them on paper helps clarify the logic before writing code.
 
@@ -196,13 +196,24 @@ then 'B' is max & 'A' is min.
 
 ### Day 14 - 08-09-2026
 
-**Focus:** DSA (C++) — loops (while loop)
+**Focus:** DSA (C++) - loops (while loop)
 
 **What I did:** Started loops. Solved 8 programs using while loops: print 1 to N, N to 1, even numbers, odd numbers, uppercase A-Z, lowercase a-z, numbers L to R, multiplication table.
 
 **Takeaway:** Any loop problem can be broken into 3 questions - where do I start, when do I stop, what changes each repetition? Also covered the 3 loop types (while, for, do-while) and when each is useful - while for condition-driven repetition, for when the count is roughly known upfront, do-while when the body must run at least once.
 
-**Link/commit:** [Day 14 — Loops (while)](dsa/day14/)
+**Link/commit:** [Day 14 - Loops (while)](dsa/day14/)
+
+---
+
+### Day 15 - 09-09-2026
+
+**Focus:** DSA (C++) - loops (digit problems) + Codeforces [Loops](https://codeforces.com/group/4vcXCPx8NY/contest/666169) Assignment
+
+**What I did:** Continued Week 2 lecture and solved some more problems using while loops: reverse a number, digit sum, count digits, reverse & store a number, palindrome check. Also solved Codeforces [Loops](https://codeforces.com/group/4vcXCPx8NY/contest/666169) Assignment (A–F): print 1 to N, N to 1, even numbers 1 to N, L to R, uppercase alphabets, table of N.
+
+**Takeaway:** Core digit-processing pattern: `n % 10` extracts the last digit, `n / 10` removes it, loop `while(n != 0)` until no digits remain. For "count digits," went through 3 attempts — first version wrongly overwrote `n` itself with `n % 10`, destroying the number; fixed by using a separate `temp` variable, then refined further by dropping the unused `n % 10` step entirely since only the digit _count_ was needed, not the digit value.
+**Link/commit:** [Day 15 - Loops: Digit Problems](dsa/day15) + [Day 15 - Codeforces Assignment on Loops](./dsa/codeforces-100xdevs-assignments/02-loops/)
 
 ---
 
