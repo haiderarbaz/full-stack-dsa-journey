@@ -1,0 +1,2 @@
+- Solved 4 problems from Loops assignment (K-N) from the 100xSchool Bootcamp, Reverse Number, Sum of Digits, Reverse Number & Store, Palindrome.
+- [Codeforces-100xdevs-assignments](../codeforces-100xdevs-assignments/02-loops/)

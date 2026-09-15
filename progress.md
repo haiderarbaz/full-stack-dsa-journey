@@ -217,6 +217,20 @@ then 'B' is max & 'A' is min.
 
 ---
 
+### Day 16 - 10-09-2026
+
+**Focus:** Web Dev (ChaiCode) - Git intro + DSA (C++) - Loops Assignment K–N
+
+**What I did:** Completed Lecture 1 of Web Dev Cohort 2026 (@chaicodehq) - intro to Git. Solved Codeforces loops problems K–N: Reverse Number, Sum of Digits, Reverse Number & Store, Palindrome
+
+> **Also:** Went back and fixed a bug in Day 14's uppercase-alphabet program — the while condition compared two constants (`'A' <= 'Z'`) instead of the changing variable `ch`, causing an infinite loop. Fixed by checking `ch <= 'Z'` instead.
+
+**Takeaway:** Learnt what version control sytem/Git is and why it's needed. Covered core commands - `git init` (start a repo), `git add`/`git commit` (stage/save changes), `git log` (view history), `git branch` (manage branches), `git revert` (undo via a new commit, safe for pushed history), `git reset` vs `git reset --hard` (reset unstages/keeps changes, `--hard` discards them). Also basic Linux commands: `ls`, `ls -a` (list files, including hidden), `cat` (view file contents)
+
+**Link/commit:** [Day 16 - Loops K–N](dsa/day16/day16.md)
+
+---
+
 <!--
 Copy the block below for each new day:
 

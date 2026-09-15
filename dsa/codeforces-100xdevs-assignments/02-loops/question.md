@@ -375,7 +375,7 @@ Print the value of `x^n`.
 - `x^0 = 1` for any `x`.
 - The constraints ensure the answer fits in a 64-bit integer.
 
-# K. Print Number in Reverse
+# [K. Print Number in Reverse](./K-Print-Numbers-in-Reverse.cpp)
 
 Given an integer `N`, print the digits of `N` in reverse order.
 
@@ -413,7 +413,7 @@ Print the number formed by reversing the digits of `N`.
 0591
 ```
 
-# L. Sum Of Digits
+# [L. Sum Of Digits](./L-Sum-Of-Digits.cpp)
 
 Given an integer `N`, find the sum of its digits.
 
@@ -439,7 +439,7 @@ Print the sum of digits of `N`.
 10
 ```
 
-# M. Reverse Number and Store in a Variable
+# [M. Reverse Number and Store in a Variable](./M-Reverse-Number-and-Store-in-a-Variable.cpp)
 
 You are given a non-negative integer `N`.
 
@@ -479,7 +479,7 @@ Print the result.
 591
 ```
 
-# N. Palindrome
+# [N. Palindrome](./N-Palindrome.cpp)
 
 You are given a non-negative integer `N`. Check whether `N` is a palindrome or not.
 
